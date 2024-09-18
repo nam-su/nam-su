@@ -1,5 +1,6 @@
 <div align="left">
-  
+
+<!-- 헤더 -->  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Namsu's%20GitHub&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
   
@@ -31,17 +32,14 @@
     </a>
 </div><br>
     
-## 🔨 Once I've used 🔨
+## 🔨 Skill 🔨
 <div style="display:flex; flex-direction:row;">
     <!-- 자바 -->
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <br>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
-    <br>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-    <br>
 </div><br>
 </div>
