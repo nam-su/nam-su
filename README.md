@@ -21,11 +21,9 @@
 
 ## 💻 Blog 💻
 <div style="display:flex; flex-direction:row;">
-    
     <a href="https://samtistory.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-
 </div><br>
 
  
