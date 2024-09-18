@@ -5,7 +5,11 @@
 --- 
 <br>
 
+
+📱 Android Developer Namsu
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam-su&layout=compact&theme=tokyonight)
+
 
 ## 🔨 Skill 🔨
 <div style="display:flex; flex-direction:row;">
