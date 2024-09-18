@@ -6,7 +6,7 @@
 <br>
 
 
-📱 Android Developer Namsu
+## Android Developer Namsu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam-su&layout=compact&theme=tokyonight)
 
