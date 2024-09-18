@@ -2,11 +2,7 @@
 
 <!-- 헤더 -->  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Namsu's%20GitHub&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
----
-  
-
-[![NamSu's GitHub](https://github-readme-stats.vercel.app/api?username=nam-su&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/nam-su/github-readme-stats)
- 
+--- 
 <br>
 
 ## 🔨 Skill 🔨
